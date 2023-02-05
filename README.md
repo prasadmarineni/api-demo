@@ -1,2 +1,2 @@
-# api-demo
- Spring Boot Rest API for DevOps pipeline
+# demo-api
+ Spring Boot Demo Api for DevOps pipeline setup
